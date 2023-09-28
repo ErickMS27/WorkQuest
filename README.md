@@ -1,2 +1,2 @@
 # WorkQuest
-Sistema de Gamificação RPG
+Sistema de Preenchimento de Fichas de RPG
